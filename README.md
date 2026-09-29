@@ -14,7 +14,7 @@ A Django web app that classifies a piece of text as **human-written** or **AI-ge
 - `manage.py` — Django entry point
 - `HumanOrAi/` — project settings and URL config
 - `classifier/` — the classification app (form, view, template)
-- `gru_model.keras` — trained GRU classifier (keep this in the project root)
+- `gru_model.keras` — trained GRU classifier (keep this in the project root) with > 80% accuracy
 - `tokenizer.pkl` — tokenizer used at training time (keep this in the project root)
 
 ## Requirements
