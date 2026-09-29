@@ -39,4 +39,5 @@ Place `gru_model.keras` and `tokenizer.pkl` in the project root (next to `manage
 
 ## License
 
-This is a university project. Add a license file if you want to specify reuse terms.
+This project is licensed under the MIT License.
+You are free to use, modify, and distribute this project, provided that the original copyright notice and license are retained.
